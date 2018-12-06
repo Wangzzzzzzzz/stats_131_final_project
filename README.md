@@ -8,4 +8,6 @@ Final Project of Stats 131
 
 * Zheng Wang
 
+## Dataset Used: Pokemon with stats
 
+* website link: https://www.kaggle.com/abcsds/pokemon
