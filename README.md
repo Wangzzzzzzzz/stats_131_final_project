@@ -11,4 +11,4 @@ Final Project of Stats 131
 ## Data Used: Pokemon with stats (from Kaggle)
 * website link: https://www.kaggle.com/abcsds/pokemon
 
-* Data provide: Alberto Barradas
+* Data provider: Alberto Barradas
