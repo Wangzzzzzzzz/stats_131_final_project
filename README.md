@@ -8,14 +8,6 @@ Final Project of Stats 131
 
 * Zheng Wang
 
-## Dataset Used: Pokemon with stats
-
-* website link: https://www.kaggle.com/abcsds/pokemon
-
-## Presentation Video link:
-
-* https://youtu.be/vjR8euS0DVQ
-
 ## Files included:
 
 * Pokemon.csv - the dataset
@@ -25,5 +17,15 @@ Final Project of Stats 131
 * project_slides.pdf - the slide for presentation
 
 * final_report.ipynb - the report of the final project written in jupyter notebook
+
+## Presentation Video link:
+
+* https://youtu.be/vjR8euS0DVQ
+
+## Dataset Used: Pokemon with stats
+
+* website link: https://www.kaggle.com/abcsds/pokemon
+
+
 
 
